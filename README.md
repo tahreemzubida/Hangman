@@ -1,6 +1,15 @@
 # Hangman
-Repo for Hangman project 
+Repo for Hangman game 
 
-This project creates a game where the player tries to guess a word that the computer has picked from pre-determined list.  
-To start the game, run the file milestone2.py
+## Project Description
+In this game, the player has to guess a word that the computer has picked from a pre-determined list.
+
+## Usage Instructions
+To start the game, run the file milestone3.py
+
+## File Structure
+This repo contains the following files:
+README.md
+milestone2.py
+milestone3.py
 
